@@ -12,11 +12,6 @@ Open your terminal and navigate to the directory where the script is located.
 
 bash
 Copy code
-cd path/to/RPS
-Run the script using a Python interpreter.
-
-bash
-Copy code
 python3 RockPaperScissor.py
 Follow the on-screen instructions. You'll be prompted to enter your choice: Rock (r), Paper (p), or Scissors (s).
 
